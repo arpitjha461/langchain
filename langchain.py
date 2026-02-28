@@ -12,4 +12,7 @@ if not OPENAI_API_KEY:
 llm = OpenAI(model="text-davinci-003", api_key=OPENAI_API_KEY)
 print(llm("What is the national sport of India?"))
 khdkfdk
+
+def randomfun(a, b)
+return a + b 
 # ...existing code...
